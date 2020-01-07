@@ -7,7 +7,7 @@ metabase 的 kylin jdbc驱动
 
 使用方法：
 
-1. 将代码拷贝到metabase项目下的``目录
+1. 将代码拷贝到metabase项目的`modules/drivers/`目录下，并重命名kylin
 
 2. 修改代码中的连接信息
 
