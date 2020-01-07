@@ -19,10 +19,10 @@ metabase 的 kylin jdbc驱动
 [org.apache.kylin/kylin-jdbc "2.6.4"]
 ```
 
-3. 在metabase项目目录下执行，编译出jar包
+4. 在metabase项目目录下执行，编译出jar包
 
 ```bash
 bin/build-driver.sh kylin
 ```
 
-4. 部署的时候，在metabase.jar包目录下，建立一个目录plugins，将驱动包拷进去
+5. 部署的时候，在metabase.jar包目录下，建立一个目录plugins，将驱动包拷进去
